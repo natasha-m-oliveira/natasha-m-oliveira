@@ -36,7 +36,7 @@
 </br>
 
 - 📜 Analysis and Systems Development by Centro Universitário Eniac
-- 📚 Recently studying in flutter, react and nodejs
+- 📚 I'm recently studying flutter, react and nodejs
 - 💼 Trainee Systems Analyst at Uninove
 - 📌 Guarulhos/São Paulo/Brazil.
  
