@@ -37,7 +37,7 @@
 
 - 📜 Analysis and Systems Development by Centro Universitário Eniac
 - 📚 I'm recently studying typescript, nodejs, react and AWS services
-- 💼 Trainee Systems Analyst at Uninove
+- 💼 Trainee Full Stack Developer at Uninove
 - 📌 Guarulhos/São Paulo/Brazil.
  
 <div style="display: inline_block"></br>
