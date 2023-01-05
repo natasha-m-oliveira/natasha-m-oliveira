@@ -37,7 +37,7 @@
 
 - 📜 Analysis and Systems Development by Centro Universitário Eniac
 - 📚 I'm recently studying typescript, nodejs, react and AWS services
-- 💼 Trainee Full Stack Developer at Uninove
+- 💼 Full Stack Developer at CITeB
 - 📌 Guarulhos/São Paulo/Brazil.
  
 <div style="display: inline_block"></br>
